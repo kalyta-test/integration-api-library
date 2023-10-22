@@ -1,0 +1,19 @@
+{
+    "name": "kalyta/integration-api-library",
+    "description": "API library",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kalyta\\IntegrationApiLibrary\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kalyta-test",
+            "email": "liuba.kalyta@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
